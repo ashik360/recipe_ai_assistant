@@ -1,0 +1,3 @@
+0 tomato
+1 egg
+2 onion
