@@ -1,7 +1,7 @@
 
 # Visual Recipe Assistant
 
-The **Visual Recipe Assistant** is a Flutter-based mobile application that uses machine learning to recognize ingredients from images and suggests relevant recipes.
+The **Visual Recipe Assistant** is a Flutter-based mobile application that uses Ai & machine learning to recognize ingredients from images and suggests relevant recipes.
 
 ## 📱 Features
 
@@ -16,7 +16,6 @@ The **Visual Recipe Assistant** is a Flutter-based mobile application that uses 
 - **TensorFlow Lite** – for running machine learning model on-device
 - **image_picker** – plugin to access camera and gallery
 - **tflite_flutter** – to run TFLite model
-- **tflite_flutter_helper_plus** – for image preprocessing and output processing
 
 ## 🚀 Getting Started
 
